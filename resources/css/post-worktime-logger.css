@@ -1,0 +1,21 @@
+.pwl-button {
+    margin-top: 5px !important;
+}
+
+#pwl-reset-button, .danger{
+    background-color: #d9534f !important;
+    border-color: #d43f3a !important;
+    color:#fff !important;
+}
+
+#pwl-reset-button{
+    margin-left: 5px;
+}
+
+.pwl-reset-form{
+    display:block;
+}
+
+.pwl-reset-form .button.danger{
+    margin-top: 50px;
+}
